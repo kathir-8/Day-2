@@ -1,0 +1,17 @@
+
+            Document object                                                      window object
+
+
+1.  It's like the paper you're reading on the screen.                 It's like the whole computer screen. It's what you see everything on,
+    It shows what's written on that specific page.                    including the paper and other stuff.
+
+
+2. It's for working with what's written on the                        It's for controlling the whole computer 
+   paper - like changing words,adding pictures                        screen - like opening new pages, moving things around
+
+
+3.  It's part of the window, like a piece of paper                    It's like the big frame that holds everything, including the paper.
+    inside a big frame.
+
+4. It's mainly about working with what's on the                       It has extra things like map showing where you are on the computer.
+   paper - like writing, erasing, or drawing.

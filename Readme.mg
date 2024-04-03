@@ -1,0 +1,1 @@
+Task 1 : Difference between Document and window objects
